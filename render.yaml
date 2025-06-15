@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: alphablakev1
+    runtime: node
+    repo: https://github.com/BLACK-HAT-911/ALPHA-BLAKE-V1
+    branch: master
+    buildCommand: npm install
+    startCommand: node index.js
+    envVars:
+      - key: OWNER_NAME
+        value: JADEN
+      - key: BOT_NAME
+        value: ALPHA-BLAKE-V1
+      - key: CHANNEL_LINK
+        value: https://whatsapp.com/channel/0029Vb5a5G4IHphKUhO9hx0d

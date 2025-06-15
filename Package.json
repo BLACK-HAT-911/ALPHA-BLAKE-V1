@@ -1,0 +1,40 @@
+{
+  "name": "alpha-blake-v1",
+  "version": "1.0.0",
+  "description": "💬 ALPHA-BLAKE-V1 • A full-featured WhatsApp bot powered by Baileys and OpenAI, created by JADEN.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "JADEN",
+  "license": "MIT",
+  "keywords": [
+    "whatsapp-bot",
+    "baileys",
+    "chatgpt",
+    "ai-bot",
+    "whatsapp",
+    "bot",
+    "nodejs"
+  ],
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "form-data": "^4.0.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.2",
+    "qrcode-terminal": "^0.12.0",
+    "uuid": "^9.0.1",
+    "fs-extra": "^11.2.0",
+    "mongoose": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

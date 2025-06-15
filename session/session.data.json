@@ -1,0 +1,30 @@
+{
+  "globalSettings": {
+    "botName": "ALPHA-BLAKE-V1",
+    "poweredBy": "JADEN",
+    "channelLink": "https://whatsapp.com/channel/0029Vb5a5G4IHphKUhO9hx0d",
+    "autoreact": true,
+    "autotyping": true,
+    "autorecord": false,
+    "privateMode": false,
+    "version": "1.0.0"
+  },
+  "userSettings": {
+    "cooldowns": {},
+    "warns": {},
+    "blacklist": []
+  },
+  "groupSettings": {
+    "antilink": [],
+    "antiviewonce": [],
+    "antidelete": [],
+    "antimention": [],
+    "welcomemsg": {},
+    "goodbyemsg": {}
+  },
+  "runtimeData": {
+    "startTime": "",
+    "lastRestart": "",
+    "totalMessages": 0
+  }
+}
